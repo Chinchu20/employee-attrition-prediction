@@ -92,4 +92,5 @@ The goal of this project is to **predict whether an employee is likely to leave 
 ## Author
 
 **Chinchu Sunil**
+
 Aspiring Data Scientist | Machine Learning Enthusiast
