@@ -77,4 +77,19 @@ The goal of this project is to **predict whether an employee is likely to leave 
 
 1. Clone this repository
 2. Install requirements
-3. Run `Employee_attrition_mo
+3. Run `Employee_attrition_model.ipynb`
+
+---
+
+## Future Improvements
+
+* Try Random Forest / XGBoost
+* Hyperparameter tuning
+* Deploy as a web app (Streamlit)
+
+---
+
+## Author
+
+**Chinchu Sunil**
+Aspiring Data Scientist | Machine Learning Enthusiast
